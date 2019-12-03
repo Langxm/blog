@@ -9,7 +9,88 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ef6ba93-9fb2-45f7-ba50-4e769c2c48ac" name="Default Changelist" comment="" />
+    <list default="true" id="7ef6ba93-9fb2-45f7-ba50-4e769c2c48ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/scs/web/blog/entity/picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/Like.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/controller/ArticleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/controller/CodeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/controller/TopicController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/controller/UploadController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/ArticleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/FollowDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/RegionDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/TopicDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/impl/ArticleDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/impl/FollowDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/impl/RegionDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/impl/TopicDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/domain/dto/SimpleTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/domain/dto/SimpleUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/domain/dto/UserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/domain/vo/ArticleVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/domain/vo/TopicVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/domain/vo/UserVo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/Region.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/Topic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/TopicFollow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/UserFollow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/entity/picture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/factory/DaoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/factory/ServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/filter/CharacterFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/filter/CorsFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/listener/MySessionContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/listener/SessionListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/service/ArticleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/service/TopicService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/service/impl/ArticleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/service/impl/TopicServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/BeanHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/DataUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/DbUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/EmailUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/GenerateLinkUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/HttpUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/ImageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/JuheDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/SpiderUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/StringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/ThreadPoolManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/ThreadPoolManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/com/scs/web/blog/util/UrlPatten.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/classes/db-config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/activation-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/commons-codec-1.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/gson-2.8.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/javax.mail-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/jsoup-1.12.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/logback-classic-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/logback-core-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/lib/slf4j-api-1.7.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/code.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/blog/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scs/web/blog/entity/picture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scs/web/blog/domain/vo/UserVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scs/web/blog/domain/vo/UserVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scs/web/blog/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scs/web/blog/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/web/blog/domain/vo/UserVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/scs/web/blog/domain/vo/UserVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/scs/web/blog/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/scs/web/blog/entity/User.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserDaoTest.insert">
+  <component name="RunManager" selected="Tomcat Server.blog">
     <configuration name="DbUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scs.web.blog.util.DbUtil" />
       <module name="blog" />
@@ -503,7 +584,9 @@
       <workItem from="1575181073836" duration="1229000" />
       <workItem from="1575273344381" duration="1498000" />
       <workItem from="1575274906557" duration="2410000" />
-      <workItem from="1575279584514" duration="981000" />
+      <workItem from="1575279584514" duration="1863000" />
+      <workItem from="1575336862416" duration="4988000" />
+      <workItem from="1575376824426" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="blog项目，完成用户数据初始化和登录功能测试">
       <created>1573274056873</created>

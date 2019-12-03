@@ -29,7 +29,11 @@ public class User {
     private String introduction;
     private String banner;
     private String email;
+    private  String pictures;
     private String homepage;
+
+
+
     private Integer follows;
     private Integer fans;
     private Integer articles;
@@ -72,6 +76,7 @@ public class User {
         return avatar;
     }
 
+
     public void setAvatar(String avatar) {
         this.avatar = avatar;
     }
@@ -91,7 +96,13 @@ public class User {
     public void setBirthday(LocalDate birthday) {
         this.birthday = birthday;
     }
+    public String getPictures() {
+        return pictures;
+    }
 
+    public void setPictures(String pictures) {
+        this.pictures = pictures;
+    }
     public String getAddress() {
         return address;
     }
